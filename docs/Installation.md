@@ -1,4 +1,6 @@
-# Mac OS
+# Installation
+
+## Mac OS
 
 1. Install Java 1.8
 2. Install brew
